@@ -17,7 +17,6 @@ There are 3 scripts within this repository:
 	gitMergeRepo_newFolder.sh <newRepoName> <newRepoUrl> <oldRepoAName> <oldRepoAUrl> <newFolderName> <oldRepoBName> <oldRepoBUrl>
 	
 	Note: Currently creating a new repository is needed
-	      Assuming there are no conflict branch name between both repository  (except master)
 	
 **gitMergeRepo_newRepo.sh**
 
